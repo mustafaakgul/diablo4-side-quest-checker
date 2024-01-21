@@ -1,3 +1,4 @@
+## Diablo 4 Side Quest Tracker
 
 ### How to Run
 * Clone the repo
