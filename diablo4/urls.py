@@ -21,7 +21,7 @@ from quests import views
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path('', views.index(), name='index'),
+    path('', views.index, name='index'),
     path('quests/', include('quests.urls')),
     path('accounts/', include('accounts.urls')),
     path('contact', views.contact, name='contact'),

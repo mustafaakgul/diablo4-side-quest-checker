@@ -41,7 +41,8 @@ INSTALLED_APPS = [
 
     # Apps
     "accounts",
-    # "quests",
+    "quests",
+    "core",
 
     # Third Party Apps
     "crispy_forms",
