@@ -55,14 +55,14 @@ Worthy of Arreat
 FRACTURED PEAKS
 A Cold Faith
 Better DAYS*
-Blood of the Mother
+Blood of the Mother +
 Blood Sermon
 Bound by Blood
 Call of the Ancients
 Chain of Possession
 Corroding Mettle
 Cries of Innocence
-Depths of Despair
+Depths of Despair +
 Exorcism Cache
 Faith in Blood
 Forgive me
@@ -74,20 +74,20 @@ Hungering bone cache
 Icebound Geode*
 Legacies of Light's Watch
 Legacy Unmade
-Malady of the Soul
-Menestad Coffers
-Raising Spirits
+Malady of the Soul +
+Menestad Coffers + 
+Raising Spirits +
 Righteous idol*
 Ravenous Dead
 Severing the Bond
 Secret of the Spring
-Sight to Madness
+Sight to Madness +
 Shattered Tribute
 Shroud of the Father
 The Beast's Challenge
 The Cleansing Flame
 The Dread Martyr
-The Sealed Door
+The Sealed Door + 
 The Woodsman's Axe to Magdalena
 Traveler's Prayer
 Unyielding Flesh
