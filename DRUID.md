@@ -94,19 +94,19 @@ FRACTURED PEAKS
 +Unwritten end*
 
 SCOSGLEN
-A Briny Fate
++A Briny Fate
 A Deepening Shadow
 A Different Beast*
 A Sliver of Light
 A Plea for Aid
 A Sodden Pack
 An Acquired Taste
-Blood of Brigands
++Blood of Brigands
 Breaga's Chronicles*
 Chasing Embers
 Chronicling the Old Ways*
 Claws at the Throat
-Daughter of the Oak
++Daughter of the Oak
 Ever Faithful
 Feral Moon
 Fields of Ruin
@@ -120,27 +120,27 @@ Reclamation
 Remembering the Goose
 Settling the Tab
 Smoke Signals
-Stemming the Tide
-Stolen Artifice
-Tending Nature
++Stemming the Tide
++Stolen Artifice
++Tending Nature
 The Bear of Blackweald
 The Broken Bear*
-The Diviner
-The Fledgling Merchant
++The Diviner
++The Fledgling Merchant
 The Old Ways
 The Seer
 The Snare
-The Starving Strand
++The Starving Strand
 The Traveling Scholar
 The Wrong Hands*
 Thread of Envy
 Untangling Truths
-Votive Passing
++Votive Passing
 Warded Sailor's Vessel*
 Wagered Honor
 With Fangs Bared
-What Ails Thee
-Whispers from Below
++What Ails Thee
++Whispers from Below
 
 KEHJISTAN
 +Acts of Atonement
