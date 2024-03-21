@@ -94,53 +94,52 @@ Unyielding Flesh
 Unwritten end*
 
 SCOSGLEN
-A Briny Fate
-A Deepening Shadow
-A Different Beast*
-A Sliver of Light
-A Plea for Aid
-A Sodden Pack
-An Acquired Taste
-Blood of Brigands
-Breaga's Chronicles*
-Chasing Embers
-Chronicling the Old Ways*
-Claws at the Throat
-Daughter of the Oak
-Ever Faithful
-Feral Moon
-Fields of Ruin
-First Among Wolves
-Left in Ashes
-Message in a Bottle*
-Of Pests and Pestilence
-Pyre of Ash
-Ravenous Predator's Offering*
-Reclamation
-Remembering the Goose
-Settling the Tab
-Smoke Signals
-Stemming the Tide
-Stolen Artifice
-Tending Nature
-The Bear of Blackweald
-The Broken Bear*
-The Diviner
-The Fledgling Merchant
-The Old Ways
-The Seer
-The Snare
++A Briny Fate
++A Deepening Shadow
++A Different Beast*
++A Sliver of Light
++A Plea for Aid
++A Sodden Pack
++An Acquired Taste
++Blood of Brigands
++Breaga's Chronicles*
++Chasing Embers
++Chronicling the Old Ways*
++Claws at the Throat
++Daughter of the Oak
++Ever Faithful
++Feral Moon
++Fields of Ruin
++First Among Wolves
++Left in Ashes
++Message in a Bottle*
++Of Pests and Pestilence
++Pyre of Ash
++Ravenous Predator's Offering*
++Reclamation
++Remembering the Goose
++Settling the Tab
++Smoke Signals
+?Stemming the Tide
++Stolen Artifice
++Tending Nature
++The Bear of Blackweald
++The Broken Bear*
++The Diviner
++The Fledgling Merchant
++The Old Ways
++The Seer
++The Snare
 The Starving Strand
-The Traveling Scholar
-The Wrong Hands*
-Thread of Envy
-Untangling Truths
-Votive Passing
++The Traveling Scholar
++The Wrong Hands*
++Thread of Envy
++Untangling Truths
++Votive Passing
 Warded Sailor's Vessel*
-Wagered Honor
-With Fangs Bared
-What Ails Thee
-Whispers from Below
++Wagered Honor
++With Fangs Bared
++Whispers from Below
 
 KEHJISTAN
 Acts of Atonement
