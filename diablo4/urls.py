@@ -20,7 +20,12 @@ from quests import views
 
 
 urlpatterns = [
+    # Django Admin
     path("admin/", admin.site.urls),
+
+    # Default Page
+    path('', TemplateView.as_view(template_name='index.html')),
+
     path('', views.index, name='index'),
     path('quests/', include('quests.urls')),
     path('accounts/', include('accounts.urls')),
