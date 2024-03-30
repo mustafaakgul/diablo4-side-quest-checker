@@ -29,6 +29,7 @@ def quest_dashboard(request):
 @login_required
 def delete_quest(request, id):
     quest = Quest.objects.get(pk=id)
+    # quest = get_object_or_404(Todo, id = id)
     if quest.manage == request.user:
         quest.delete()
     else:
@@ -41,6 +42,7 @@ def delete_quest(request, id):
 def edit_quest(request, id):
     if request.method == "POST":
         quest = Quest.objects.get(pk=id)
+        # quest = get_object_or_404(Todo, id = id)
         form = QuestForm(request.POST or None, instance=quest)
         if form.is_valid():
             form.save()
@@ -56,6 +58,7 @@ def complete_quest(request, id):
     quest = Quest.objects.get(pk=id)
     if quest.manage == request.user:
         quest.done = True
+        # quest.done = not quest.done
         quest.save()
     else:
         messages.error(request, ("Access Restricted, You Are Not Allowed."))
@@ -91,3 +94,16 @@ def about(request):
         'about_text': "Welcome About Page.",
     }
     return render(request, 'core/about.html', context)
+
+
+def index_sample(request):
+    #return HttpResponse("main page")
+    context = {
+        "number1" : 10,
+        "number2" : 20,
+        "number" : 30,
+        "numbers" : [1,2,3,4,5]
+    }
+    todos = Todo.objects.all()
+
+    return render(request, "index.html", {"todos":todos})
