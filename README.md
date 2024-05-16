@@ -44,7 +44,7 @@ Salt Begets Salt
 Sealed Oxen Tribe Cache*
 Sentimental Value
 Strange Ore Sample*
-Tarnishes Amulet*
++Tarnishes Amulet*
 The Unlocky Ones
 Treasure or Trash
 Thieves' Famine
@@ -56,14 +56,14 @@ FRACTURED PEAKS
 A Cold Faith
 Better DAYS*
 Blood of the Mother +
-Blood Sermon
++Blood Sermon
 Bound by Blood
 Call of the Ancients
 Chain of Possession
 Corroding Mettle
 Cries of Innocence
 Depths of Despair +
-Exorcism Cache
++Exorcism Cache
 Faith in Blood
 Forgive me
 Frostbloom
@@ -82,9 +82,9 @@ Ravenous Dead
 Severing the Bond
 Secret of the Spring
 Sight to Madness +
-Shattered Tribute
++Shattered Tribute
 Shroud of the Father
-The Beast's Challenge
++The Beast's Challenge
 The Cleansing Flame
 The Dread Martyr
 The Sealed Door + 
@@ -94,52 +94,52 @@ Unyielding Flesh
 Unwritten end*
 
 SCOSGLEN
-+A Briny Fate
-+A Deepening Shadow
-+A Different Beast*
-+A Sliver of Light
-+A Plea for Aid
-+A Sodden Pack
-+An Acquired Taste
-+Blood of Brigands
-+Breaga's Chronicles*
-+Chasing Embers
-+Chronicling the Old Ways*
-+Claws at the Throat
-+Daughter of the Oak
-+Ever Faithful
-+Feral Moon
-+Fields of Ruin
-+First Among Wolves
-+Left in Ashes
-+Message in a Bottle*
-+Of Pests and Pestilence
-+Pyre of Ash
-+Ravenous Predator's Offering*
-+Reclamation
-+Remembering the Goose
-+Settling the Tab
-+Smoke Signals
+A Briny Fate
+A Deepening Shadow
+A Different Beast*
+A Sliver of Light
+A Plea for Aid
+A Sodden Pack
+An Acquired Taste
+Blood of Brigands
+Breaga's Chronicles*
+Chasing Embers
+Chronicling the Old Ways*
+Claws at the Throat
+Daughter of the Oak
+Ever Faithful
+Feral Moon
+Fields of Ruin
+First Among Wolves
+Left in Ashes
+Message in a Bottle*
+Of Pests and Pestilence
+Pyre of Ash
+Ravenous Predator's Offering*
+Reclamation
+Remembering the Goose
+Settling the Tab
+Smoke Signals
 ?Stemming the Tide
-+Stolen Artifice
-+Tending Nature
-+The Bear of Blackweald
-+The Broken Bear*
-+The Diviner
-+The Fledgling Merchant
-+The Old Ways
-+The Seer
-+The Snare
+Stolen Artifice
+Tending Nature
+The Bear of Blackweald
+The Broken Bear*
+The Diviner
+The Fledgling Merchant
+The Old Ways
+The Seer
+The Snare
 The Starving Strand
-+The Traveling Scholar
-+The Wrong Hands*
-+Thread of Envy
-+Untangling Truths
-+Votive Passing
+The Traveling Scholar
+The Wrong Hands*
+Thread of Envy
+Untangling Truths
+Votive Passing
 Warded Sailor's Vessel*
-+Wagered Honor
-+With Fangs Bared
-+Whispers from Below
+Wagered Honor
+With Fangs Bared
+Whispers from Below
 
 KEHJISTAN
 Acts of Atonement
