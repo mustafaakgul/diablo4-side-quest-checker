@@ -238,3 +238,6 @@ Turbulent Waters
 Venom of the Nangari*
 Unearthed Regrets
 What cant be Cured
+
+MAP
+Tenets of Depravity
