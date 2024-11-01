@@ -53,45 +53,45 @@ What Remains
 Worthy of Arreat
 
 FRACTURED PEAKS
-A Cold Faith
-Better DAYS*
-Blood of the Mother +
-+Blood Sermon
-Bound by Blood
-Call of the Ancients
-Chain of Possession
-Corroding Mettle
+A Cold Faith D
+Better Days
+Blood of the Mother D
+Blood Sermon D
+Bound by Blood D
+Call of the Ancients D
+Chain of Possession D
 Cries of Innocence
-Depths of Despair +
-+Exorcism Cache
-Faith in Blood
-Forgive me
+Depths of Despair D
+Exorcism Cache
+Faith in Blood D
+Forgive Me
 Frostbloom
-Gold Well Spent
-Gory Display*
-Hammer of the Champion
-Hungering bone cache
-Icebound Geode*
-Legacies of Light's Watch
-Legacy Unmade
-Malady of the Soul +
-Menestad Coffers + 
-Raising Spirits +
-Righteous idol*
-Ravenous Dead
-Severing the Bond
-Secret of the Spring
-Sight to Madness +
-+Shattered Tribute
-Shroud of the Father
-+The Beast's Challenge
-The Cleansing Flame
+Gold Well Spent D
+Gory Display D
+Hammer of the Champion D
+Hungering Bone Cache D
+Icebound Geode D
+Legacies of Light's Watch D
+Legacy Unmade D
+Malady of the Soul D
+Menestad Coffers D
+Raising Spirits D
+Righteous Idol
+Ravenous Dead D
+Severing the Bond D
+Secret of the Spring 
+Sight to Madness D
+Shattered Tribute D
+Shroud of the Father D
+Tenets of Deprvity
+The Beast's Challenge D
+The Cleansing Flame D
 The Dread Martyr
-The Sealed Door + 
-The Woodsman's Axe to Magdalena
-Traveler's Prayer
-Unyielding Flesh
-Unwritten end*
+The Sealed Door D
+The Woodsman of Nevesk D
+Traveler's Prayer D
+Unyielding Flesh D
+Unwritten End
 
 SCOSGLEN
 A Briny Fate
@@ -177,7 +177,7 @@ Symbol of Faith
 Timely Correspondence
 The Only Cure
 The Speaking Stone
-The pilgrim's Footsteps
+The Pilgrim's Footsteps
 The Way of the Three
 The Weapon of a Wolf*
 Traces of Iron
