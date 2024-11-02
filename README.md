@@ -54,18 +54,18 @@ Worthy of Arreat
 
 FRACTURED PEAKS
 A Cold Faith D
-Better Days
+Better Days D
 Blood of the Mother D
 Blood Sermon D
 Bound by Blood D
 Call of the Ancients D
 Chain of Possession D
-Cries of Innocence
+Cries of Innocence D
 Depths of Despair D
 Exorcism Cache
 Faith in Blood D
 Forgive Me
-Frostbloom
+Frostbloom D
 Gold Well Spent D
 Gory Display D
 Hammer of the Champion D
@@ -76,22 +76,21 @@ Legacy Unmade D
 Malady of the Soul D
 Menestad Coffers D
 Raising Spirits D
-Righteous Idol
+Righteous Idol D
 Ravenous Dead D
 Severing the Bond D
-Secret of the Spring 
+Secret of the Spring D
 Sight to Madness D
 Shattered Tribute D
 Shroud of the Father D
-Tenets of Deprvity
 The Beast's Challenge D
 The Cleansing Flame D
-The Dread Martyr
+The Dread Martyr D
 The Sealed Door D
 The Woodsman of Nevesk D
 Traveler's Prayer D
 Unyielding Flesh D
-Unwritten End
+Unwritten End D
 
 SCOSGLEN
 A Briny Fate
