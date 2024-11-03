@@ -44,7 +44,7 @@ Salt Begets Salt
 Sealed Oxen Tribe Cache*
 Sentimental Value
 Strange Ore Sample*
-+Tarnishes Amulet*
++Tarnishes Amulet* D
 The Unlocky Ones
 Treasure or Trash
 Thieves' Famine
@@ -62,7 +62,7 @@ Call of the Ancients D
 Chain of Possession D
 Cries of Innocence D
 Depths of Despair D
-Exorcism Cache
+Exorcist's Cache
 Faith in Blood D
 Forgive Me
 Frostbloom D
@@ -144,38 +144,38 @@ KEHJISTAN
 Acts of Atonement
 An Unlawful Order
 An Errant Flock
-A wolf's honor
+A wolf's Honor  D
 A Moment of Peace
-A Voice from the Past
+A Voice from the Past D
 Butcher of the North
 Desiccation
-Deadly Trade
-Endless Fortune*
-Final Straw
-guardian of the pit
+Deadly Trade D
+Endless Fortune* D
+Final Straw D
+Guardian of the Pit D
 Head of the Snake
 In Desperate Times
-Izel of the Vizjerei
+Izel of the Vizjerei D
 Justice Delayed
 Late Shipment
 Mirage
 More Value Than Gold
-on the Hunt
+On the Hunt D
 Payment Past Due
-Pinch of Poison
+Pinch of Poison D
 Ravenous Nec.*
 Remnants*
 Road to Ruin
 Seeking Refuge
 Shadow of Alcarnus
 Spotted Mushroom*
-Strange Remedies
+Strange Remedies D
 Strayed from the Path
-sealed khazra offering*
+Sealed Khazra Offering* D
 Symbol of Faith
 Timely Correspondence
 The Only Cure
-The Speaking Stone
+The Speaking Stone D
 The Pilgrim's Footsteps
 The Way of the Three
 The Weapon of a Wolf*
@@ -184,7 +184,7 @@ To Serve Again*
 Unsafe travels
 Unusual ore
 When He Tides.....
-Zakarum's Plight
+Zakarum's Plight D
 
 HAWEZAR
 A Debt Repeid
