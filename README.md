@@ -141,50 +141,50 @@ With Fangs Bared
 Whispers from Below
 
 KEHJISTAN
-Acts of Atonement
-An Unlawful Order
-An Errant Flock
-A Wolf's Honor
-A Moment of Peace
-A Voice from the Past
-Butcher of the North
-Desiccation
+Acts of Atonement D
+An Unlawful Order D
+An Errant Flock D
+A Wolf's Honor D
+A Moment of Peace D
+A Voice from the Past D
+Butcher of the North D
+Desiccation D
 Deadly Trade D
 Endless Fortune*
-Final Straw
-Guardian of the Pit
-Head of the Snake
-In Desperate Times
-Izel of the Vizjerei
-Justice Delayed
-Late Shipment
-Mirage
-More Value Than Gold
-On the Hunt
-Payment Past Due
+Final Straw D
+Guardian of the Pit D
+Head of the Snake D
+In Desperate Times D
+Izel of the Vizjerei D
+Justice Delayed D
+Late Shipment D
+Mirage D
+More Value Than Gold D
+On the Hunt D
+Payment Past Due D
 Pinch of Poison D
-Ravenous Nec.*
-Remnants*
-Road to Ruin
-Seeking Refuge
-Shadow of Alcarnus
-Spotted Mushroom*
-Strange Remedies
-Strayed from the Path
-Sealed Khazra Offering*
-Symbol of Faith
-Timely Correspondence
-The Only Cure
+Ravenous Nec.* D
+Remnants* D
+Road to Ruin D
+Seeking Refuge D
+Shadow of Alcarnus D
+Spotted Mushroom* D
+Strange Remedies D
+Strayed from the Path D
+Sealed Khazra Offering* D-
+Symbol of Faith D
+Timely Correspondence D
+The Only Cure D
 The Speaking Stone D
-The Pilgrim's Footsteps
-The Way of the Three
-The Weapon of a Wolf*
-Traces of Iron
-To Serve Again*
-Unsafe travels
-Unusual Ore
-When He Tides.....
-Zakarum's Plight
+The Pilgrim's Footsteps D
+The Way of the Three D
+The Weapon of a Wolf* D
+Traces of Iron D
+To Serve Again* D
+Unsafe Travels D
+Unusual Ore D
+When He Tides..... D
+Zakarum's Plight D
 
 HAWEZAR
 A Debt Repeid
