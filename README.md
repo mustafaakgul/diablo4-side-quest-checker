@@ -62,9 +62,9 @@ Call of the Ancients D
 Chain of Possession D
 Cries of Innocence D
 Depths of Despair D
-Exorcist's Cache
+Exorcist's Cache D
 Faith in Blood D
-Forgive Me
+Forgive Me D
 Frostbloom D
 Gold Well Spent D
 Gory Display D
@@ -144,23 +144,23 @@ KEHJISTAN
 Acts of Atonement
 An Unlawful Order
 An Errant Flock
-A wolf's Honor  D
+A Wolf's Honor
 A Moment of Peace
-A Voice from the Past D
+A Voice from the Past
 Butcher of the North
 Desiccation
 Deadly Trade D
-Endless Fortune* D
-Final Straw D
-Guardian of the Pit D
+Endless Fortune*
+Final Straw
+Guardian of the Pit
 Head of the Snake
 In Desperate Times
-Izel of the Vizjerei D
+Izel of the Vizjerei
 Justice Delayed
 Late Shipment
 Mirage
 More Value Than Gold
-On the Hunt D
+On the Hunt
 Payment Past Due
 Pinch of Poison D
 Ravenous Nec.*
@@ -169,9 +169,9 @@ Road to Ruin
 Seeking Refuge
 Shadow of Alcarnus
 Spotted Mushroom*
-Strange Remedies D
+Strange Remedies
 Strayed from the Path
-Sealed Khazra Offering* D
+Sealed Khazra Offering*
 Symbol of Faith
 Timely Correspondence
 The Only Cure
@@ -182,9 +182,9 @@ The Weapon of a Wolf*
 Traces of Iron
 To Serve Again*
 Unsafe travels
-Unusual ore
+Unusual Ore
 When He Tides.....
-Zakarum's Plight D
+Zakarum's Plight
 
 HAWEZAR
 A Debt Repeid
