@@ -53,44 +53,44 @@ What Remains
 Worthy of Arreat
 
 FRACTURED PEAKS
-A Cold Faith D
-Better Days D
-Blood of the Mother D
-Blood Sermon D
-Bound by Blood D
-Call of the Ancients D
-Chain of Possession D
-Cries of Innocence D
-Depths of Despair D
-Exorcist's Cache D
-Faith in Blood D
-Forgive Me D
-Frostbloom D
-Gold Well Spent D
-Gory Display D
-Hammer of the Champion D
-Hungering Bone Cache D
-Icebound Geode D
-Legacies of Light's Watch D
-Legacy Unmade D
-Malady of the Soul D
-Menestad Coffers D
-Raising Spirits D
-Righteous Idol D
-Ravenous Dead D
-Severing the Bond D
-Secret of the Spring D
-Sight to Madness D
-Shattered Tribute D
-Shroud of the Father D
-The Beast's Challenge D
-The Cleansing Flame D
-The Dread Martyr D
-The Sealed Door D
-The Woodsman of Nevesk D
-Traveler's Prayer D
-Unyielding Flesh D
-Unwritten End D
+A Cold Faith
+Better Days
+Blood of the Mother
+Blood Sermon
+Bound by Blood
+Call of the Ancients
+Chain of Possession
+Cries of Innocence
+Depths of Despair
+Exorcist's Cache
+Faith in Blood
+Forgive Me
+Frostbloom
+Gold Well Spent
+Gory Display
+Hammer of the Champion
+Hungering Bone Cache
+Icebound Geode
+Legacies of Light's Watch
+Legacy Unmade
+Malady of the Soul
+Menestad Coffers
+Raising Spirits
+Righteous Idol
+Ravenous Dead
+Severing the Bond
+Secret of the Spring
+Sight to Madness
+Shattered Tribute
+Shroud of the Father
+The Beast's Challenge
+The Cleansing Flame
+The Dread Martyr
+The Sealed Door
+The Woodsman of Nevesk
+Traveler's Prayer
+Unyielding Flesh
+Unwritten End
 
 SCOSGLEN
 A Briny Fate
@@ -141,50 +141,50 @@ With Fangs Bared
 Whispers from Below
 
 KEHJISTAN
-Acts of Atonement D
-An Unlawful Order D
-An Errant Flock D
-A Wolf's Honor D
-A Moment of Peace D
-A Voice from the Past D
-Butcher of the North D
-Desiccation D
-Deadly Trade D
+Acts of Atonement
+An Unlawful Order
+An Errant Flock
+A Wolf's Honor
+A Moment of Peace
+A Voice from the Past
+Butcher of the North
+Desiccation
+Deadly Trade
 Endless Fortune*
-Final Straw D
-Guardian of the Pit D
-Head of the Snake D
-In Desperate Times D
-Izel of the Vizjerei D
-Justice Delayed D
-Late Shipment D
-Mirage D
-More Value Than Gold D
-On the Hunt D
-Payment Past Due D
-Pinch of Poison D
-Ravenous Nec.* D
-Remnants* D
-Road to Ruin D
-Seeking Refuge D
-Shadow of Alcarnus D
-Spotted Mushroom* D
-Strange Remedies D
-Strayed from the Path D
-Sealed Khazra Offering* D-
-Symbol of Faith D
-Timely Correspondence D
-The Only Cure D
-The Speaking Stone D
-The Pilgrim's Footsteps D
-The Way of the Three D
-The Weapon of a Wolf* D
-Traces of Iron D
-To Serve Again* D
-Unsafe Travels D
-Unusual Ore D
-When He Tides..... D
-Zakarum's Plight D
+Final Straw
+Guardian of the Pit
+Head of the Snake
+In Desperate Times
+Izel of the Vizjerei
+Justice Delayed
+Late Shipment
+Mirage
+More Value Than Gold
+On the Hunt
+Payment Past Due
+Pinch of Poison
+Ravenous Nec.*
+Remnants*
+Road to Ruin
+Seeking Refuge
+Shadow of Alcarnus
+Spotted Mushroom*
+Strange Remedies
+Strayed from the Path
+Sealed Khazra Offering*
+Symbol of Faith
+Timely Correspondence
+The Only Cure
+The Speaking Stone
+The Pilgrim's Footsteps
+The Way of the Three
+The Weapon of a Wolf*
+Traces of Iron
+To Serve Again*
+Unsafe Travels
+Unusual Ore
+When He Tides.....
+Zakarum's Plight
 
 HAWEZAR
 A Debt Repeid
