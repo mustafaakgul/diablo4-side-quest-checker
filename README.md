@@ -92,12 +92,12 @@ Unyielding Flesh
 Unwritten End
 
 SCOSGLEN
-A Briny Fate
-A Deepening Shadow
+A Briny Fate D
+A Deepening Shadow D
 A Different Beast*
-A Sliver of Light
+A Sliver of Light D
 A Plea for Aid D
-A Sodden Pack
+A Sodden Pack D
 An Acquired Taste D
 Blood of Brigands D
 Breaga's Chronicles* D
@@ -109,7 +109,7 @@ Ever Faithful D
 Feral Moon D
 Fields of Ruin D
 First Among Wolves D
-Left in Ashes
+Left in Ashes D
 Message in a Bottle*
 Of Pests and Pestilence D
 Pyre of Ash D
@@ -118,26 +118,26 @@ Reclamation D
 Remembering the Goose D
 Settling the Tab D
 Smoke Signals D
-Stemming the Tide
+Stemming the Tide D
 Stolen Artifice D
-Tending Nature
+Tending Nature D
 The Bear of Blackweald D
 The Broken Bear*
 The Diviner D
 The Fledgling Merchant D
-The Old Ways
+The Old Ways D
 The Seer D
 The Snare D
 The Starving Strand D
-The Traveling Scholar
+The Traveling Scholar D
 The Wrong Hands*
-Thread of Envy
-Untangling Truths
+Thread of Envy D
+Untangling Truths D
 Votive Passing D
-Warded Sailor's Vessel*
+Warded Sailor's Vessel* D
 Wagered Honor D
 With Fangs Bared D
-Whispers from Below
+Whispers from Below D
 What Ails Thee D
 
 KEHJISTAN
