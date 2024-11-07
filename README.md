@@ -13,7 +13,6 @@
 DRY STEPPES
 A Pound of Flesh
 Augury of Bones
-Are you Erdene's Father
 Blistered Heart
 Blood and Sweat
 Curious Curios
@@ -22,8 +21,7 @@ Consumed by Pride
 Corroding Mettle
 Crucible of Worth
 Currencies From Afar*
-Dust Daily
-Exorcist's Cache
+Dust Daisy
 Exhuming Faith
 Firsthand Knowledge
 Fury Agains Fate
@@ -35,16 +33,17 @@ Keeping the Old Traditions
 Kith and Kin
 Malign Devotion
 More Than Meets the Eye
-No Need Unpunished*
+No Deed Unpunished*
 Phases of the Moon
 Raising Spears
 Reject the Mother*
 Scorched Debts
 Salt Begets Salt
 Sealed Oxen Tribe Cache*
+Sealed Cache
 Sentimental Value
 Strange Ore Sample*
-+Tarnishes Amulet* D
+Tarnishes Amulet*
 The Unlocky Ones
 Treasure or Trash
 Thieves' Famine
@@ -97,48 +96,49 @@ A Briny Fate
 A Deepening Shadow
 A Different Beast*
 A Sliver of Light
-A Plea for Aid
+A Plea for Aid D
 A Sodden Pack
-An Acquired Taste
-Blood of Brigands
-Breaga's Chronicles*
-Chasing Embers
+An Acquired Taste D
+Blood of Brigands D
+Breaga's Chronicles* D
+Chasing Embers D
 Chronicling the Old Ways*
-Claws at the Throat
-Daughter of the Oak
-Ever Faithful
-Feral Moon
-Fields of Ruin
-First Among Wolves
+Claws at the Throat D
+Daughter of the Oak D
+Ever Faithful D
+Feral Moon D
+Fields of Ruin D
+First Among Wolves D
 Left in Ashes
 Message in a Bottle*
-Of Pests and Pestilence
-Pyre of Ash
+Of Pests and Pestilence D
+Pyre of Ash D
 Ravenous Predator's Offering*
-Reclamation
-Remembering the Goose
-Settling the Tab
-Smoke Signals
-?Stemming the Tide
-Stolen Artifice
+Reclamation D
+Remembering the Goose D
+Settling the Tab D
+Smoke Signals D
+Stemming the Tide
+Stolen Artifice D
 Tending Nature
-The Bear of Blackweald
+The Bear of Blackweald D
 The Broken Bear*
-The Diviner
-The Fledgling Merchant
+The Diviner D
+The Fledgling Merchant D
 The Old Ways
-The Seer
-The Snare
-The Starving Strand
+The Seer D
+The Snare D
+The Starving Strand D
 The Traveling Scholar
 The Wrong Hands*
 Thread of Envy
 Untangling Truths
-Votive Passing
+Votive Passing D
 Warded Sailor's Vessel*
-Wagered Honor
-With Fangs Bared
+Wagered Honor D
+With Fangs Bared D
 Whispers from Below
+What Ails Thee D
 
 KEHJISTAN
 Acts of Atonement
