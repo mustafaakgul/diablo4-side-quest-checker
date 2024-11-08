@@ -187,19 +187,19 @@ When He Tides.....
 Zakarum's Plight
 
 HAWEZAR
-A Debt Repeid
+A Debt Repeid D
 A Price to Pay
 A Series of Steps
 A Question of Self
 At Any Cost
 Bad Blood
 Bait the Trap
-Brought to Heel
+Brought to Heel D
 By Tree They Come
 Chained Zakarum Repository*
 Coiled Grasp
 Closing the Book
-Dead in the Water
+Dead in the Water D
 Dead to Right
 Despereta Remedies
 Discretionary Spending
