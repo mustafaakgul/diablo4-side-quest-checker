@@ -188,7 +188,7 @@ Zakarum's Plight
 
 HAWEZAR
 A Debt Repeid D
-A Price to Pay
+A Price to Pay D
 A Series of Steps
 A Question of Self
 At Any Cost
@@ -197,7 +197,7 @@ Bait the Trap
 Brought to Heel D
 By Tree They Come
 Chained Zakarum Repository*
-Coiled Grasp
+Coiled Grasp D
 Closing the Book
 Dead in the Water D
 Dead to Right
@@ -214,24 +214,24 @@ Growing Reminders
 Heart of Mold
 Heart's Burden
 Hungering Necrolyte's Cache
-Left Behind
-Lost Cause
+Left Behind D
+Lost Cause D
 Lost Legacy
 Netrotic Research
-One Little Red Sprig*
+One Little Red Sprig* D
 Overstepping the Mark*
 Past Regrets
 Perceived Threat
 Poisoned Hearts
-Remnants of Faith
+Remnants of Faith D
 Remembering the Fallen
 Song of Rot
-Tangled Memories
-The Greater Good
-The Heretic
+Tangled Memories D
+The Greater Good D
+The Heretic D
 The Swamp's Protection
 Timeworn Effigy*
-To Walk a Dark Path
+To Walk a Dark Path D
 Traveler's Superstition
 Turbulent Waters
 Venom of the Nangari*
