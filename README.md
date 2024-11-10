@@ -189,53 +189,53 @@ Zakarum's Plight
 HAWEZAR
 A Debt Repeid D
 A Price to Pay D
-A Series of Steps
-A Question of Self
-At Any Cost
-Bad Blood
-Bait the Trap
+A Series of Steps D
+A Question of Self D
+At Any Cost D
+Bad Blood D
+Bait the Trap D
 Brought to Heel D
-By Tree They Come
+By Tree They Come D
 Chained Zakarum Repository*
 Coiled Grasp D
-Closing the Book
+Closing the Book D
 Dead in the Water D
-Dead to Right
-Despereta Remedies
-Discretionary Spending
+Dead to Right D
+Despereta Remedies D
+Discretionary Spending D
 Drink to the Past
-Flesh and Blood
-Fungal Remedies
-Ire of the Witch
-Gift of the Swamp
+Flesh and Blood D
+Fungal Remedies D
+Ire of the Witch D
+Gift of the Swamp D
 Glittering Abundance
 Good Riddance*
-Growing Reminders
-Heart of Mold
+Growing Reminders D
+Heart of Mold D
 Heart's Burden
 Hungering Necrolyte's Cache
 Left Behind D
 Lost Cause D
-Lost Legacy
-Netrotic Research
+Lost Legacy D
+Netrotic Research D
 One Little Red Sprig* D
 Overstepping the Mark*
-Past Regrets
-Perceived Threat
-Poisoned Hearts
+Past Regrets D
+Perceived Threat D
+Poisoned Hearts D
 Remnants of Faith D
-Remembering the Fallen
-Song of Rot
+Remembering the Fallen D
+Song of Rot D
 Tangled Memories D
 The Greater Good D
 The Heretic D
-The Swamp's Protection
+The Swamp's Protection D
 Timeworn Effigy*
 To Walk a Dark Path D
-Traveler's Superstition
-Turbulent Waters
-Venom of the Nangari*
-Unearthed Regrets
+Traveler's Superstition D
+Turbulent Waters D
+Venom of the Nangari* D
+Unearthed Regrets D
 What cant be Cured
 
 MAP
