@@ -187,56 +187,56 @@ When He Tides.....
 Zakarum's Plight
 
 HAWEZAR
-A Debt Repeid
-A Price to Pay
-A Series of Steps
-A Question of Self
-At Any Cost
-Bad Blood
-Bait the Trap
-Brought to Heel
-By Tree They Come
-Chained Zakarum Repository*
-Coiled Grasp
-Closing the Book
-Dead in the Water
-Dead to Right
-Despereta Remedies
-Discretionary Spending
-Drink to the Past
-Flesh and Blood
-Fungal Remedies
-Ire of the Witch
-Gift of the Swamp
----Glittering Abundance
-Good Riddance*
-Growing Reminders
-Heart of Mold
-Heart's Burden*
-Hungering Necrolyte's Cache
-Left Behind
-Lost Cause
-Lost Legacy
-Netrotic Research
-One Little Red Sprig*
-Overstepping the Mark*
-Past Regrets
-Perceived Threat
-Poisoned Hearts
-Remnants of Faith
-Remembering the Fallen
-Song of Rot
-Tangled Memories
-The Greater Good
-The Heretic
-The Swamp's Protection
-Timeworn Effigy*
-To Walk a Dark Path
-Traveler's Superstition
-Turbulent Waters
-Venom of the Nangari*
-Unearthed Regrets
-What Cant Be Cured
+A Debt Repeid D
+A Price to Pay D
+A Series of Steps D
+A Question of Self D
+At Any Cost D
+Bad Blood D
+Bait the Trap D
+Brought to Heel D
+By Tree They Come D
+Chained Zakarum Repository* D
+Coiled Grasp D
+Closing the Book D
+Dead in the Water D
+Dead to Right D
+Despereta Remedies D
+Discretionary Spending D
+Drink to the Past D
+Flesh and Blood D
+Fungal Remedies D
+Ire of the Witch D
+Gift of the Swamp D
+---Glittering Abundance --
+Good Riddance* D
+Growing Reminders D
+Heart of Mold D
+Heart's Burden* D
+Hungering Necrolyte's Cache* D
+Left Behind D
+Lost Cause D
+Lost Legacy D
+Netrotic Research D
+One Little Red Sprig* --
+Overstepping the Mark* D
+Past Regrets D
+Perceived Threat D
+Poisoned Hearts D
+Remnants of Faith D
+Remembering the Fallen D
+Song of Rot D
+Tangled Memories D
+The Greater Good D
+The Heretic D
+The Swamp's Protection D
+Timeworn Effigy* D
+To Walk a Dark Path D
+Traveler's Superstition D
+Turbulent Waters D
+Venom of the Nangari* D
+Unearthed Regrets D
+What Cant Be Cured D
 
 MAP
 Tenets of Depravity
