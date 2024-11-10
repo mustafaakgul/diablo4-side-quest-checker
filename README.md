@@ -208,7 +208,7 @@ Flesh and Blood
 Fungal Remedies
 Ire of the Witch
 Gift of the Swamp
----Glittering Abundance
+Glittering Abundance
 Good Riddance*
 Growing Reminders
 Heart of Mold
