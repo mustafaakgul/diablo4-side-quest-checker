@@ -196,30 +196,30 @@ Bad Blood D
 Bait the Trap D
 Brought to Heel D
 By Tree They Come D
-Chained Zakarum Repository*
+Chained Zakarum Repository* D
 Coiled Grasp D
 Closing the Book D
 Dead in the Water D
 Dead to Right D
 Despereta Remedies D
 Discretionary Spending D
-Drink to the Past
+Drink to the Past D
 Flesh and Blood D
 Fungal Remedies D
 Ire of the Witch D
 Gift of the Swamp D
 Glittering Abundance
-Good Riddance*
+Good Riddance* D
 Growing Reminders D
 Heart of Mold D
-Heart's Burden
-Hungering Necrolyte's Cache
+Heart's Burden* D
+Hungering Necrolyte's Cache D
 Left Behind D
 Lost Cause D
 Lost Legacy D
 Netrotic Research D
 One Little Red Sprig* D
-Overstepping the Mark*
+Overstepping the Mark* D
 Past Regrets D
 Perceived Threat D
 Poisoned Hearts D
@@ -230,13 +230,13 @@ Tangled Memories D
 The Greater Good D
 The Heretic D
 The Swamp's Protection D
-Timeworn Effigy*
+Timeworn Effigy* D
 To Walk a Dark Path D
 Traveler's Superstition D
 Turbulent Waters D
 Venom of the Nangari* D
 Unearthed Regrets D
-What cant be Cured
+What Cant Be Cured D
 
 MAP
 Tenets of Depravity
