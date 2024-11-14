@@ -238,5 +238,45 @@ Venom of the Nangari*
 Unearthed Regrets
 What Cant Be Cured
 
-MAP
+Nahantu
 Tenets of Depravity
+
+A Canopy of Corpses
+Blood in the Grove
+Bonded Destiny
+Bloom Where You Are Planted
+By Their Fruits
+Cost of Doing Business
+Depraved Wages
+Deafened Mourning
+Everything Old
+Final Rite
+Following Faith
+Overcoming Suffering
+Midnight Jaguars
+Goatman' s Bane
+Lost to the Jungle
+Love Lotus
+New Again
+Return to Dust
+Salt of Earth
+Scout's Honor
+Snatched from the Nest
+Shroud of Wrath
+Spilled Blood
+The Appeal pf Faith
+The Bestial Soul of Teganze
+The Cat-Eye Curse
+The Courage to Continue
+The Keening Spirit
+The Living and the Dying
+The Ravenous Idol
+Tsalir's Blessing
+Tragic Inheritance
+The Pit of Anguish
+The Scales of History
+The Witness
+Two Ending
+Wayward Friendship
+Where Credit is Due
+What Stamps From The Heart
