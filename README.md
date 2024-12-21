@@ -243,21 +243,21 @@ Tenets of Depravity
 
 A Canopy of Corpses
 Blood in the Grove
-Bonded Destiny
+Bonded Destiny +
 Bloom Where You Are Planted
 By Their Fruits
 Cost of Doing Business
 Depraved Wages
 Deafened Mourning
-Everything Old
+Everything Old +
 Final Rite
 Following Faith
 Overcoming Suffering
-Midnight Jaguars
+Midnight Jaguars +
 Goatman' s Bane
-Lost to the Jungle
-Love Lotus
-New Again
+Lost to the Jungle + 
+Love Lotus +
+New Again +
 Return to Dust
 Salt of Earth
 Scout's Honor
