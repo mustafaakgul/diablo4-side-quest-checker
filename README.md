@@ -239,44 +239,44 @@ Unearthed Regrets
 What Cant Be Cured
 
 Nahantu
-Tenets of Depravity
+Tenets of Depravity D
 
 A Canopy of Corpses
-Blood in the Grove
+Blood in the Grove D
 Bonded Destiny +
 Bloom Where You Are Planted
 By Their Fruits
 Cost of Doing Business
-Depraved Wages
+Depraved Wages D
 Deafened Mourning
 Everything Old +
 Final Rite
 Following Faith
 Overcoming Suffering
 Midnight Jaguars +
-Goatman' s Bane
+Goatman' s Bane D
 Lost to the Jungle + 
 Love Lotus +
 New Again +
 Return to Dust
 Salt of Earth
-Scout's Honor
+Scout's Honor D
 Snatched from the Nest
 Shroud of Wrath
 Spilled Blood
-The Appeal pf Faith
+The Appeal pf Faith D
 The Bestial Soul of Teganze
 The Cat-Eye Curse
 The Courage to Continue
-The Keening Spirit
+The Keening Spirit D
 The Living and the Dying
 The Ravenous Idol
-Tsalir's Blessing
+Tsalir's Blessing D
 Tragic Inheritance
-The Pit of Anguish
-The Scales of History
+The Pit of Anguish D
+The Scales of History D
 The Witness
 Two Ending
-Wayward Friendship
+Wayward Friendship D
 Where Credit is Due
 What Stamps From The Heart
