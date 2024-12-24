@@ -246,11 +246,11 @@ Blood in the Grove D
 Bonded Destiny +
 Bloom Where You Are Planted
 By Their Fruits
-Cost of Doing Business
+Cost of Doing Business D
 Depraved Wages D
-Deafened Mourning
+Deafened Mourning D
 Everything Old +
-Final Rite
+Final Rite D
 Following Faith
 Overcoming Suffering
 Midnight Jaguars +
@@ -258,25 +258,25 @@ Goatman' s Bane D
 Lost to the Jungle + 
 Love Lotus +
 New Again +
-Return to Dust
+Return to Dust D
 Salt of Earth
 Scout's Honor D
-Snatched from the Nest
+Snatched from the Nest D
 Shroud of Wrath
 Spilled Blood
 The Appeal pf Faith D
 The Bestial Soul of Teganze
 The Cat-Eye Curse
-The Courage to Continue
+The Courage to Continue D
 The Keening Spirit D
 The Living and the Dying
 The Ravenous Idol
 Tsalir's Blessing D
-Tragic Inheritance
+Tragic Inheritance D
 The Pit of Anguish D
 The Scales of History D
-The Witness
+The Witness D
 Two Ending
 Wayward Friendship D
-Where Credit is Due
+Where Credit is Due D
 What Stamps From The Heart
